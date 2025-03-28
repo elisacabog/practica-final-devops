@@ -1,5 +1,5 @@
 <header>
-# Práctica Final de DevOps
+Práctica Final de DevOps
 </header>
 
 Este proyecto forma parte de la práctica final del curso de DevOps, donde se ha implementado un flujo completo de integración y despliegue continuo (CI/CD) utilizando GitHub Actions y Docker.
